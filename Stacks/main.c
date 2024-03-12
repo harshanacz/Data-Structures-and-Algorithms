@@ -9,6 +9,7 @@ int top  = -1;
 
 void push(int value);
 void displayElements();
+void topElementDisplay();
 
 int main() {
     printf("Add values to Stack. MAX: 5\n");
@@ -24,7 +25,17 @@ int main() {
         scanf("%d", &valueAdded);
 
     }
-    displayElements();
+
+    int topElement;
+    printf("\nWant only last one?[1/0]");
+    scanf("%d",&topElement);
+    if(topElement==1){
+        topElementDisplay();
+    }else{
+        displayElements();
+    }
+
+
 
 
     return 0;
@@ -46,4 +57,9 @@ void displayElements(){
         printf("%d", stack[i]);
         printf("\n");
     }
+}
+
+void topElementDisplay(){
+    printf("Top element is ");
+    printf("%d", stack[top]);
 }
