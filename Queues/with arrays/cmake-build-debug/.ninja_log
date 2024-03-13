@@ -1,0 +1,7 @@
+# ninja log v5
+1	102	7320225112938956	CMakeFiles/with_arrays.dir/main.c.obj	42ec8e646bc99f84
+103	252	7320225114395773	with_arrays.exe	9be9f080d4c65796
+5	117	7320225399156108	CMakeFiles/with_arrays.dir/main.c.obj	42ec8e646bc99f84
+117	246	7320225400405135	with_arrays.exe	9be9f080d4c65796
+5	131	7320226511871906	CMakeFiles/with_arrays.dir/main.c.obj	42ec8e646bc99f84
+132	265	7320226513143039	with_arrays.exe	9be9f080d4c65796

@@ -1,0 +1,3 @@
+C:/Users/Harshana/Desktop/Projects/UNI/DSA/Queues/with arrays/cmake-build-debug/CMakeFiles/with_arrays.dir
+C:/Users/Harshana/Desktop/Projects/UNI/DSA/Queues/with arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Harshana/Desktop/Projects/UNI/DSA/Queues/with arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
