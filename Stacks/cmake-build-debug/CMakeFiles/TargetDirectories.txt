@@ -1,3 +1,0 @@
-C:/Users/Harshana/Desktop/Projects/UNI/DSA/Stacks/cmake-build-debug/CMakeFiles/Stacks.dir
-C:/Users/Harshana/Desktop/Projects/UNI/DSA/Stacks/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Harshana/Desktop/Projects/UNI/DSA/Stacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
