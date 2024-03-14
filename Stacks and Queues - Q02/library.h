@@ -1,0 +1,6 @@
+#ifndef STACKS_AND_QUEUES___Q02_LIBRARY_H
+#define STACKS_AND_QUEUES___Q02_LIBRARY_H
+
+void hello(void);
+
+#endif //STACKS_AND_QUEUES___Q02_LIBRARY_H

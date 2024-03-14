@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Stacks_and_Queues___Q",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Stacks_and_Queues___Q::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Stacks_and_Queues___Q-Debug-47a41ffb6c199c4b1a9c.json",
+					"name" : "Stacks_and_Queues___Q",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Harshana/Desktop/Projects/UNI/DSA/Stacks and Queues - Q/cmake-build-debug",
+		"source" : "C:/Users/Harshana/Desktop/Projects/UNI/DSA/Stacks and Queues - Q"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

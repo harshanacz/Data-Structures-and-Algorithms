@@ -1,0 +1,3 @@
+C:/Users/Harshana/Desktop/Projects/UNI/DSA/Stacks and Queues - Q/cmake-build-debug/CMakeFiles/Stacks_and_Queues___Q.dir
+C:/Users/Harshana/Desktop/Projects/UNI/DSA/Stacks and Queues - Q/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Harshana/Desktop/Projects/UNI/DSA/Stacks and Queues - Q/cmake-build-debug/CMakeFiles/rebuild_cache.dir
