@@ -1,0 +1,25 @@
+# ninja log v5
+1	148	7320958921701619	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+149	261	7320958922798706	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+4	125	7320963845515907	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+126	481	7320963848029371	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+3	92	7320964063554742	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+92	194	7320964064532134	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+2	624	7320964372060672	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+625	745	7320964373207634	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+5	115	7320964760366393	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+115	226	7320964761433542	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+4	95	7320966065814289	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+95	194	7320966066761775	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+4	149	7320966486509563	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+149	256	7320966487546771	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+2	97	7320966870750094	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+97	191	7320966871647707	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+4	95	7320967349600255	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+95	202	7320967350618246	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+4	107	7320967982082630	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+107	215	7320967983119872	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+5	112	7320968055242162	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+112	222	7320968056299341	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b
+5	109	7321001355893673	CMakeFiles/Stacks_and_Queues___Q02.dir/main.c.obj	809efa0e5aec66de
+109	213	7321001356893002	Stacks_and_Queues___Q02.exe	d57f9b3ed876f40b

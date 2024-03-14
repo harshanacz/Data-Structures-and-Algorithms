@@ -3,4 +3,4 @@ project(Stacks_and_Queues___Q02 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_library(Stacks_and_Queues___Q02 STATIC library.c)
+add_executable(Stacks_and_Queues___Q02 main.c)
