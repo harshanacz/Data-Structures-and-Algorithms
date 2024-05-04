@@ -1,0 +1,15 @@
+# ninja log v5
+1	517	7364969611615585	CMakeFiles/Selection_Sort_Algorithm.dir/main.c.obj	a7562035dedba253
+519	758	7364969613969059	Selection_Sort_Algorithm.exe	d25469366f10e1c4
+5	129	7364970314738264	CMakeFiles/Selection_Sort_Algorithm.dir/main.c.obj	a7562035dedba253
+130	238	7364970315765409	Selection_Sort_Algorithm.exe	d25469366f10e1c4
+4	137	7364971670253852	CMakeFiles/Selection_Sort_Algorithm.dir/main.c.obj	a7562035dedba253
+138	274	7364971671600133	Selection_Sort_Algorithm.exe	d25469366f10e1c4
+4	101	7364979020663980	CMakeFiles/Selection_Sort_Algorithm.dir/main.c.obj	a7562035dedba253
+101	216	7364979021760991	Selection_Sort_Algorithm.exe	d25469366f10e1c4
+3	89	7364980312626920	CMakeFiles/Selection_Sort_Algorithm.dir/main.c.obj	a7562035dedba253
+90	197	7364980313644114	Selection_Sort_Algorithm.exe	d25469366f10e1c4
+4	131	7364981915132261	CMakeFiles/Selection_Sort_Algorithm.dir/main.c.obj	a7562035dedba253
+132	243	7364981916209310	Selection_Sort_Algorithm.exe	d25469366f10e1c4
+5	146	7365037669068273	CMakeFiles/Selection_Sort_Algorithm.dir/main.c.obj	a7562035dedba253
+146	279	7365037670344868	Selection_Sort_Algorithm.exe	d25469366f10e1c4

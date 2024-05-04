@@ -1,0 +1,12 @@
+Write a simple c program to implement the stack data structure. Inside the main 
+method you should do the following.
+i. Initialize the top of the stack.
+ii. Check whether the stack is full or empty.
+iii. Insert one element to stack.
+iv. Again, check whether the stack is full or empty.
+v. Insert two more elements to the stack.
+vi. Display the stack.
+vii. Delete an element from the stack.
+viii. Display the stack.
+2. Write a C program to convert a given decimal number to binary, using an 
+array-based stack
