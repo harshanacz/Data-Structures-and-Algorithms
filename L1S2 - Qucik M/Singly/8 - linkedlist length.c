@@ -53,22 +53,16 @@ void printList(struct node *head)
     }
 }
 
-struct node *addItemToEnd(struct node *head)
+void lengthof(struct node *head)
 {
-    struct node *temp, *newnode;
-    temp = head;
-    while(temp->next != NULL ){printf("WORKED");
-        temp = temp -> next;
+    struct node *temp =head;
+    int length =1;
+    while(temp->next!= NULL){
+        temp = temp->next;
+        length++;
     }
-    newnode = malloc(sizeof(struct node));printf("Enter Data: ");
-    scanf("%d", &newnode->data);
-    temp->next = newnode;
-     newnode->next = NULL;
-     return head;
+    printf("%d", length);
 }
-
-
-
 
 int main()
 {
@@ -78,8 +72,6 @@ int main()
     printf("\n");
     printList(head);
     printf("\n");
-    head = addItemToEnd(head);
-    printf("\n");
-    printList(head);
+    lengthof(head);
     return 0;
 }
